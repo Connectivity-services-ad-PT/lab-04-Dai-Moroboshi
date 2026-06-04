@@ -1,1 +1,0 @@
-ghcr.io/Dai-Moroboshi/team-iot:v0.1.0-team-iot
